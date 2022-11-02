@@ -1,0 +1,23 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.travel_mainDiv{
+    border: 1px solid lightgray;
+
+}
+
+.travel_mainDiv img{
+    width:100%;
+}
+
+.travel_mainDiv h5, .travel_maindiv p{
+    margin: 20px;
+
+}
+
+.button{
+    background-color: rgb(0, 17, 255);
+    color:rgb(0, 255, 195)
+}
