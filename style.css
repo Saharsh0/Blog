@@ -36,3 +36,11 @@
 .movie_text span{
     color: gold;
 }
+
+.book{
+    margin-bottom: 20px;
+}
+
+#contack iframe{
+width: 100%;
+}
